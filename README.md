@@ -4,13 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=molly-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="molly-varshney" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning Full Stack Development.
 
-- 💬 I am looking forward to **I'm looking forward to contribute to some open source projects.**
+- 💬 I'm looking forward to contribute to some open source projects.
+
+- ⚡Learning and Practicing DSA Everyday.
 
 - 📫 How to reach me **mollyvarshney71@gmail.com**
 
-- ⚡Learning and Practicing **DSA Everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
